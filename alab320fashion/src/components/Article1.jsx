@@ -4,7 +4,7 @@ function ArticleOne() {
         <article>
           <time dateTime="2020-12-11">11/12/20</time>
           <h2>On the Street in Brooklyn</h2>
-          <img src="./public\IMages\blog-image-1.jpg" alt="Brooklyn" />
+          <img src="./assets\IMages\blog-image-1.jpg" alt="Brooklyn" />
 
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
